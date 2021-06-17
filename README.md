@@ -1,4 +1,5 @@
-# 21school
+# Libft
+
 My projects in ecol42 
 This is my own recoded libc library with 10 custom functions and 10 bonus functions.
 Each function in bonus part working with linked list:
